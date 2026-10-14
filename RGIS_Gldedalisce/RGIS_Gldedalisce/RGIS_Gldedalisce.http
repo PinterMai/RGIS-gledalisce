@@ -1,0 +1,6 @@
+@RGIS_Gldedalisce_HostAddress = http://localhost:5193
+
+GET {{RGIS_Gldedalisce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
